@@ -34,6 +34,8 @@
             hold-trigger-on-release;
         };
     };
+};
+/ {
     keymap {
         compatible = "zmk,keymap";
 
