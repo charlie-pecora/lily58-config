@@ -34,7 +34,7 @@
 // |  TAB  |  Q    |  W    |  E     |  R     |  T   |                         |  Y    |  U     |  I     |  O    |   P   |   -   |
 // |  CTRL | ALT A | GUI S | CTRL D | SHFT F | G    |                         | H     | SHFT J | CTRL K | GUI L | ALT ; | '     |
 // | SHIFT |  Z    |  X    |  C     |  V     |  B   |      DEL  |  | BSPC     |  N    |  M     |  ,     |  .    |   /   | SHIFT |
-//                         | ALT    | DEL    | LOWER| NUM SPACE |  | L4 ENTER | RAISE | BSPC   | GUI    |
+//                         | ALT    | DEL    | LOWER| NUM SPACE |  | FN ENTER | RAISE | BSPC   | GUI    |
             display-name = "Base";
             bindings = <
 &kp ESC   &kp N1      &kp N2      &kp N3       &kp N4       &kp N5                           &kp N6      &kp N7       &kp N8       &kp N9      &kp N0         &kp GRAVE
